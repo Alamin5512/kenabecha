@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>896724891587-72k42u2ek14vs7hrqhrm1mo586si6kqn.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.896724891587-72k42u2ek14vs7hrqhrm1mo586si6kqn</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCl651DV1ZiA5lY6-Tjtbm_haPBkQ9t-7c</string>
+	<key>GCM_SENDER_ID</key>
+	<string>896724891587</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.firbase.Kenabecha</string>
+	<key>PROJECT_ID</key>
+	<string>kenabecha-c0768</string>
+	<key>STORAGE_BUCKET</key>
+	<string>kenabecha-c0768.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:896724891587:ios:22f872c4f2d62f8dfeaf76</string>
+</dict>
+</plist>
